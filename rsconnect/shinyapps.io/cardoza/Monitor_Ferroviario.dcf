@@ -1,0 +1,10 @@
+name: Monitor_Ferroviario
+title: Monitor_Ferroviario
+username: cardoza
+account: cardoza
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16404420
+bundleId: 11430579
+url: https://cardoza.shinyapps.io/Monitor_Ferroviario/
+version: 1
